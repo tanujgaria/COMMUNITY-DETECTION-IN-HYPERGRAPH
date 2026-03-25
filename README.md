@@ -75,13 +75,6 @@ Each node represents a gene or disease, and connections represent their relation
 
 ---
 
-## 📈 Evaluation Criteria
-- Clustering Quality  
-- Community Clarity  
-- Performance  
-
----
-
 ## 🔮 Future Scope
 - Apply on larger datasets  
 - Improve model efficiency  
